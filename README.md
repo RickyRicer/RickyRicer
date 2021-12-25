@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rick!
 - 👀 I’m interested in working with you on your next big project!
 - 🌱 I’m currently learning javascript, and node.js! I love it, and can't wait to learn more.
-- 💞️ I’m looking to collaborate on EVERYTHING! I'm really interested in your blockchain or NFT project!
+- 💞️ I’m looking to collaborate on EVERYTHING! I'm really interested in your blockchain, smart contract, or NFT project!
 - 📫 How to reach me email, linkedin, all the socials, discord, really anyway you can find! 
 
 <!---
