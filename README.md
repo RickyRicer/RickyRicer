@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Rick!
-- 👀 I’m interested in working with you on your next big project!
-- 🌱 I’m currently learning mongoDB, and React! I love it, and can't wait to learn more.
-- 💞️ I’m looking to collaborate on EVERYTHING! I'm really interested in your blockchain, smart contract, or NFT project!
-- 📫 How to reach me email, linkedin, all the socials, discord, really anyway you can find! 
+- 👀 I’m interested in all things crypto, NFT, and WEB3!
+- 🌱 I’m currently learning mongoDB, and React! I truly enjoy the backend
+- 💞️ Let's collaborate! 
+- 📫 How to reach me: email, linkedin, all the socials, discord! 
 
 <!---
 RickyRicer/RickyRicer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
