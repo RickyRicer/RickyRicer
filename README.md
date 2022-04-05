@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rick!
 - 👀 I’m interested in all things crypto, NFT, and WEB3!
-- 🌱 I’m currently learning mongoDB, and React! I truly enjoy the backend
+- 🌱 I’m currently learning MERN! 
 - 💞️ Let's collaborate! 
 - 📫 How to reach me: email, linkedin, all the socials, discord! 
 
