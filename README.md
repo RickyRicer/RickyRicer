@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Rick!
 - 👀 I’m interested in all things crypto, NFT, and WEB3!
-- 🌱 I’m currently learning MERN! 
+- 🌱 I’m currently learning typescript and solidity smart contracts! 
 - 💞️ Let's collaborate! 
-- 📫 How to reach me: email, linkedin, all the socials, discord! 
+- 📫 How to reach me: email, linkedin, discord! 
 
 <!---
 RickyRicer/RickyRicer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
