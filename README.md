@@ -1,4 +1,4 @@
-[![Rick's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickyricer&show_icons=true&theme=nightowl&hide=prs,issues)](https://github.com/rickyricer/github-readme-stats)
+[![Rick's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickyricer&show_icons=true&theme=nightowl&hide=prs,issues)]
 
 - 👋 Hi, I’m Rick!
 - 👀 I’m interested in all things crypto, NFT, and WEB3!
