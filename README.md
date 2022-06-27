@@ -4,7 +4,7 @@
 - 👀 I’m interested in all things crypto, NFT, and WEB3 (I mostly work with Ethereum)!
 - 🌱 I’m currently practicing typescript and smart contracts! 
 - 💞️ Let's collaborate, I'd love to give you a hand on your project! 
-- 📫 How to reach me: email, linkedin, twitter
+- 📫 How to reach me: email, LinkedIn, Twitter
 
 <!---
 RickyRicer/RickyRicer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
