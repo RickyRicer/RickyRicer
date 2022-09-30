@@ -1,6 +1,6 @@
 [![Rick's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickyricer&show_icons=true&theme=nightowl&hide=prs,issues)](https://github.com/rickyricer)
 
--I'm currently on vacation, celebrating our wedding Friday 09/23 🌴🌴
+- Back from vacation! Enjoy your day! 
 
 - 👋 Hi, I’m Rick! Thanks for stopping by!
 - 👀 I’m interested in all things crypto, NFT, and WEB3 (I mostly work with Ethereum/Solidity)!
