@@ -2,8 +2,8 @@
 
 - 👋 Hi, I’m Rick! Thanks for stopping by, you can see my active work account @mepcad-ransay!
 - 👀 I’m interested in all things crypto, NFTs, and WEB3!
-- 🌱 I’m currently practicing typescript and solana token creation! 
-- 💞️ Let's collaborate, I'd love to give you a hand on your project! 
+- 🌱 I’m currently rebuilding my portfolio, and updating all dead links! 
+- 💞️ Let's collaborate, I want to help you with your next project! 
 - 📫 How to reach me: Email, LinkedIn, Twitter
 
 <!---
