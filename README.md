@@ -1,4 +1,3 @@
-[![Rick's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickyricer&show_icons=true&theme=nightowl&hide=prs,issues)](https://github.com/rickyricer) 
 
 - 👋 Hi, I’m Rick! Thanks for stopping by, you can see my most recent work account @mepcad-ransay!
 - 👀 I’m a full stack developer with a penchant for crypto!
