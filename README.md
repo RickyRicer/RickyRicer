@@ -5,7 +5,7 @@
 - 👀 I’m a full stack developer!
 - 🌱 I’m currently learning NextJS! 
 - 💞️ Let's collaborate, I want to help you with your next project! 
-- 📫 How to reach me: Email, LinkedIn, Twitter
+- 📫 How to reach me: Email, LinkedIn, X
 
 <!---
 RickyRicer/RickyRicer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
